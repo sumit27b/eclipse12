@@ -19,7 +19,7 @@
   </dependencies>
   
   <build>
-  <finalName>jenkins-docker-eclipe</finalName>
+  <finalName>jenkins-docker-eclipse</finalName>
   </build>
   
 </project>
