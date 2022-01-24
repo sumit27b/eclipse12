@@ -8,3 +8,5 @@ public class TestMain {
 		assertTrue(Eclipse.checkIfInputIsAnEvenNumber(22)); 
 	}
 }
+
+
